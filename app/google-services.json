@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592877802149",
+    "project_id": "myctapp-a7394",
+    "storage_bucket": "myctapp-a7394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592877802149:android:ecc1e1e758924a2228b34c",
+        "android_client_info": {
+          "package_name": "com.example.myctapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY6rkWE3q2u3ub67PnrG-6HOxy4Z6DhN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
